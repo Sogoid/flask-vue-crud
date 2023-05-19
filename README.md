@@ -1,8 +1,7 @@
 # Developing a Single Page App with Flask and Vue.js
 
-The following is a step-by-step walkthrough of how to set up a basic CRUD app with Vue and Flask. We'll start by
-scaffolding a new Vue application and then move on to performing the basic CRUD operations through a back-end RESTful
-API powered by Python and Flask.
+A basic CRUD app with Vue and Flask. Basic CRUD through a
+RESTful API backend powered by Python and Flask.
 
 Final app:
 ![Flask and Vue.js](https://testdriven.io/static/images/gifs/blog/flask-vue/final.gif)
@@ -35,8 +34,7 @@ I want to thank you for the great study material created by Michael Herman.
 
 # Desenvolvendo um aplicativo de página única com Flask e Vue.js
 
-A seguir está um passo a passo de como configurar um aplicativo CRUD básico com Vue e Flask. Vamos começar por
-scaffolding um novo aplicativo Vue e, em seguida, passar para a execução das operações CRUD básicas por meio de um
+Um aplicativo CRUD básico com Vue e Flask. CRUD básicas por meio de um
 back-end RESTful API alimentada por Python e Flask.
 
 Final app:
